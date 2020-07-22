@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TTCUE.NetCore.SharepointOnline.CSOM.16.1.8029.1200" Version="16.1.8029.1200" />
+  </ItemGroup>
+</Project>
